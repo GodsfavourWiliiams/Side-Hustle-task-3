@@ -8,7 +8,6 @@ body{
     background-image: url('wooden.jpeg');
     background-position: center;
     height: 100%;
-    overflow: hidden;
 }
 main{
     display: block;
